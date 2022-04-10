@@ -1,1 +1,3 @@
 hello git!
+
+current branch "sample1"
